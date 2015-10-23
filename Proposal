@@ -1,0 +1,49 @@
+Wireless Car
+Semester Project 2015
+Team 09  	                        
+Date: 22nd Oct 2015
+
+Executive Summary
+Our main aim is to create a wireless car using motors and beagle bone and also Raspberry pi.  
+The gpio pins are used to control the motor on the car to remote it. We will connect to our server to control directions using server-client method. Some additional interfaces, such as a IR sensor to control the moving direction of the car, an analog input to control the speed of the car and we will connect the pi/beagle bone to internet to control the car remotely ,control the motor speed ,are considered to be done based on the progress of the project.		
+
+[Source: source ]
+Team Structure or Members
+1.	M.R.Srinath            B12035  CSE
+2.	Sanjeev Raydu       B12029  CSE
+
+Equipment needed
+Electronic Equipment’s -
+S.No.	Item	Quantity	Site
+1	12V DC Motor	2	link_to_motor
+
+2	Servo Motor	2	link
+
+3	Blue LED	5	local vendor
+
+4	Red LED	5	local vendor
+5	Green LED	5	local vendor
+6	Potentiometer	2	  local vendor
+
+7	1k Ohm Resistor (1/4 watt)	15	local vendor
+8	WiFi Module	1	link_to_wifi_module
+
+9	PCB Board	2	link_for_PCB
+
+10	L293 H-Bridges	2	link_to_motor_driver
+
+11	Ultrasonic Sensors	2	link_for_ultra_sonic
+
+12	Gauge Connector Wires	30	local vendor
+13	Raspberry Pi	1	link_to_raspberrypi
+
+14	Batteries	4	local vendor
+
+Hardware Equipment’s-
+
+S.No.	Items	Dimensions	Quantity
+1	Robot Car Kit	...	1
+
+
+
+
